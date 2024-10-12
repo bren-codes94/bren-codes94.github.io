@@ -1,0 +1,33 @@
+body {
+  margin: auto 20%;
+}
+
+header {
+  text-align: center;
+}
+
+.page-summary {
+  text-align: center;
+}
+
+h2 {
+  margin-top: 40px;
+}
+
+.article-container {
+  display: flex;
+  border: 1px solid black;
+  padding: 20px;
+}
+
+.article-container > article {
+  border: 1px solid red;
+  height: 100px;
+  width: 100px;
+  padding: 20px;
+  margin-right: 20px;
+}
+
+footer {
+  text-align: center;
+}
